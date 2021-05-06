@@ -7,6 +7,6 @@ Simple text editor.
 
 ### Requirements
 
-You’ll need to have browser ;)
+You’ll need to have a browser ;)
 
 Demo: https://val089.github.io/currencies-nbp-api/
