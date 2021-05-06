@@ -2,7 +2,7 @@
 
 Simple text editor.
 
-![currencies](https://user-images.githubusercontent.com/30775271/108040721-f45d4000-703d-11eb-8eea-aad068d107e8.png)
+![photo](https://github.com/val089/text-editor/issues/1#issue-877185601)
 
 
 ### Requirements
