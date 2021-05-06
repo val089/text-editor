@@ -8,4 +8,4 @@ Simple text editor.
 
 You’ll need to have a browser ;)
 
-Demo: https://val089.github.io/currencies-nbp-api/
+Demo: https://val089.github.io/text-editor/index.html
